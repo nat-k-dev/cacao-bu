@@ -33,12 +33,12 @@ const Logo = () => {
                 sx={{
                     maxHeight: { 
                         lg: 92,
-                        md: 80,
+                        sm: 80,
                         xs: 40
                     },
                     maxWidth: { 
                         lg: 92,
-                        md: 80,
+                        sm: 80,
                         xs: 40
                     }
                 }}
