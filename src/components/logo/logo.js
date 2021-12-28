@@ -40,7 +40,10 @@ const Logo = () => {
                         lg: 92,
                         sm: 80,
                         xs: 40
-                    }
+                    },
+                    borderRadius: '50%',
+                    border: '1px solid black',
+                    boxShadow: '0 0 10px 1px brown'
                 }}
                 alt="logo"
                 src={logo}
